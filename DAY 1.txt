@@ -1,0 +1,35 @@
+DAY 1 CLASS: 23/01/2023
+
+//installation of git and vscode and checked access git from vscode terminal
+
+Github is like a google drive store and manage our code
+Github is a version control system to store the data pariticular commits like it stores the previous 
+data and updated data simuntaneously.
+
+GIT ACCESS---->
+	
+	git hub:remote access.
+	git =>in your laptop,this is local git.
+   
+	steps-->GITHUB
+		1.create a repositiary/folder.
+		2.create folder in local desktop
+		3.copy path of filder and paste on cmd and type code . to open folder in vscode
+		4.create cpp file and learning.txt
+		5.connect to local folder to the remote repositary.
+
+	GIT CONNECT -->
+
+	// write git command first way is to open cmd in folder
+	1. git init : it will create a .git hidden folder inside your main folder
+		     .git 
+	2. git status : to track the files.
+	3. git commit -m : to commit  and track the information.
+	4. git add . : to add  untracked files to tracked file.
+	5.git add remote add origin "url" to connect the git and local folder
+	6. git push origin master/branch.
+
+		
+
+
+
